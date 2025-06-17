@@ -10,7 +10,6 @@ As a simple practice exercise on the classification problem, it is expected that
 
 ### Use: The project is deployed as a web application using streamlit.
 https://github.com/user-attachments/assets/77e076d4-94fa-4239-8670-b445945f0538
-![Uploading 455966865-77e076d4-94fa-4239-8670-b445945f0538.gif…]()
 
 ## Installation
 ### I use the visual studio code for window
