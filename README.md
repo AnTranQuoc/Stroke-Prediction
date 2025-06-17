@@ -12,6 +12,7 @@ As a simple practice exercise on the classification problem, it is expected that
 ![image](https://github.com/user-attachments/assets/23a9f588-7e08-493f-9d20-34e110046acd)
 
 ## Installation
+### I use the visual studio code for window
 1. Clone the project repository:
  `git clone`
  
