@@ -19,12 +19,18 @@ As a simple practice exercise on the classification problem, it is expected that
 
    `pip install pandas numpy scikit-learn imbalanced-learn ydata-profiling lazypredict streamlit joblib`
  
-      *Note: ydata_profiling can only be installed with python versions greater than 3.9 and less than 3.13
-      In case you do not have the corresponding python version:
+   *Note: ydata_profiling can only be installed with python versions greater than 3.9 and less than 3.13
+   In case you do not have the corresponding python version:
 
-      `python -m venv .venv`
+   1. List available Python versions: `py -0`
+
+   2. Create python environment, in here there's version 3.12: `py -3.12 -m venv venv`
   
-      `pip install -r requirements.txt`
+   3. Activate the environment:  `.\venv\Scripts\activate`
+
+   4. Install the required dependencies: 
+
+    `pip install pandas numpy scikit-learn imbalanced-learn ydata-profiling lazypredict streamlit joblib`
 
 ## Usage
 1. Start the Flask application:
