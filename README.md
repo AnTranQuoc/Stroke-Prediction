@@ -6,7 +6,10 @@ As a simple practice exercise on the classification problem, it is expected that
 ## Features
 ### Stroke risk detection: The application uses PassiveAggressiveClassifier model using feed from available dataset.
 ### Dataset: The model has been trained on available dataset specifically for patients including 9 features.
+![image](https://github.com/user-attachments/assets/de2dacae-2cab-4876-8a18-a2cd26924ebf)
+
 ### Use: The project is deployed as a web application using streamlit.
+![image](https://github.com/user-attachments/assets/23a9f588-7e08-493f-9d20-34e110046acd)
 
 ## Installation
 1. Clone the project repository:
