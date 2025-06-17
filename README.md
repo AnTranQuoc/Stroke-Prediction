@@ -26,4 +26,3 @@ As a simple practice exercise on the classification problem, it is expected that
 ## Usage
 1. Start the Flask application:
  `streamlit run app_streamlit.py`
- 

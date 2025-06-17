@@ -1,0 +1,12 @@
+# Ignore virtual environments
+.venv/
+.venv_312/
+*.pyc
+__pycache__/
+
+# Optionally ignore large model/data files
+*.h5
+*.pth
+*.dll
+*.pkl
+*.npy
