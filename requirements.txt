@@ -1,0 +1,9 @@
+#python > 3.9 and < 3.13
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+ydata-profiling
+lazypredict
+streamlit
+joblib
