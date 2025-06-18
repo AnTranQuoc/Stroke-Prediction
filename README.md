@@ -8,7 +8,7 @@ As a simple practice exercise on the classification problem, it is expected that
 ### Dataset: The model has been trained on available dataset specifically for patients including 9 features.
 ![image](https://github.com/user-attachments/assets/de2dacae-2cab-4876-8a18-a2cd26924ebf)
 
-### Use: The project is deployed as a web application using streamlit.
+### Use: The project is deployed as a web application using streamlit and Flask.
 https://github.com/user-attachments/assets/77e076d4-94fa-4239-8670-b445945f0538
 
 ## Installation
