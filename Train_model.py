@@ -99,6 +99,7 @@ print(classification_report(y_test, y_pred))
 #    macro avg       0.52      0.57      0.50       982
 # weighted avg       0.91      0.76      0.82       982
 
+#Mình sử dụng joblib vì được gợi ý là nhẹ hơn và nhanh hơn so với pickle
 import joblib
 
 joblib.dump(model.best_estimator_, "stroke_model.pkl")
