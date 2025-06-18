@@ -8,7 +8,7 @@ model = joblib.load("stroke_model.pkl")
 scaler = joblib.load("scaler.pkl")
 feature_names = joblib.load("feature_names.pkl")  # list cột đã fit
 
-st.title("🧠 Stroke Prediction App")
+st.title("Stroke Prediction App")
 
 # Nhập thông tin người dùng
 gender = st.selectbox("Gender", ["Male", "Female", "Other"])
